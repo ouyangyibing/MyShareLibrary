@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sources/iRobot_Symbol_RGB_Web_sm.png</file>
+        <file>Sources/Geometry</file>
+    </qresource>
+</RCC>
